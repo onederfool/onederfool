@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @onederfool
-- 👀 I’m a EN <> RU and EN <> BY translator, trying to also learn programming
+- 👀 I’m a EN <> RU, EN <> BY, and EN <> PL translator, trying to also learn programming
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on translations and localization...
 - 📫 How to reach me ...
 
 <!---
